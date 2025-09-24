@@ -1,1 +1,1 @@
-my_token = "abcd1234efgh5678"
+my_password = "admin"
