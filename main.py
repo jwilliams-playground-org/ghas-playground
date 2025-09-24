@@ -1,3 +1,4 @@
 my_password = "admin"
-my_gh_token = "ghp_A1b2C3d4E5f6G7h8I9j0K1l2M3n4O5p6Q7r8S9t0"
+my_gh_token = "ghp_X8j3ka44Fakra990892jkKKlsliepa98a78cvajA"
 my_aws_key = "AKIAIOSFODNN7EXAMPLE"
+my_aws_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY0000" 
